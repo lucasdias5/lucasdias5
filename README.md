@@ -10,11 +10,11 @@ Atualmente sou estudante e faço o Curso Técnico de TI da **Escola Elfrida Cris
 
 ### ⚙️ Skills
 
-- ***HTML5***: estrutura e organinação de páginas para Web.
+- ***HTML5***: estrutura e organização de páginas para Web.
 - ***CSS3***: estilização de páginas web.
 - ***Python***: variávies, laços condicionais, laços de repetição , estruturas de controle, funções, módulos e pacotes.
 - ***JavaScript***: variáveis, eventos, objetos e manipulação do DOM.
-- ***Lógica de Programção***: vapacidade de desenvolver sistemas simples baseado em soluções para o dia a dia.
+- ***Lógica de Programação***: capacidade de desenvolver sistemas simples baseados em soluções para o dia a dia.
 - ***GitHub***: criação, organização e publicação de projetos.
 
 ---
@@ -30,7 +30,7 @@ Atualmente sou estudante e faço o Curso Técnico de TI da **Escola Elfrida Cris
 ### 💻 Ferramentas
 
 
-![JavaScript](https://img.shields.io/badge/javascript-lightyellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![HTML5](https://img.shields.io/badge/html-darkorange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css) ![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/gituhb-black?style=for-the-badge&logo=github)
+![JavaScript](https://img.shields.io/badge/javascript-lightyellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![HTML5](https://img.shields.io/badge/html-darkorange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css) ![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 
 ---
 
